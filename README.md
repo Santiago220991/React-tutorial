@@ -1,13 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians
+# Todo List with React
 
-> **This is a webpage that shows a functional calculator with the next basic functions.**
+> **This is a To Do List web page. It shows a minimalist design with the next features:**
 
-- Addition **+** 
-- Sustraction **-**
-- Multiplication **x** 
-- Divison **÷**
+- Add new tasks.
+- Edit tasks.
+- Markup completed tasks.
+- Erase completed tasks.
+- Draging and droping tasks.
 
 
 ## Built With
@@ -19,7 +20,7 @@
 
 ## Live Demo
 
-[Javascript Capstone Live Demo](https://santiago220991.github.io/math-magicians/dist)
+[Javascript Capstone Live Demo](https://santiago220991.github.io/React-tutorial/dist)
 
 ## Getting Started
 
@@ -46,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Santiago220991/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/Santiago220991/React-tutorial/issues).
 
 ## Acknowledgments
 

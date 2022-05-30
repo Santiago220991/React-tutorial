@@ -7,8 +7,7 @@
 - Add new tasks.
 - Edit tasks.
 - Markup completed tasks.
-- Erase completed tasks.
-- Draging and droping tasks.
+- Erase tasks.
 
 
 ## Built With

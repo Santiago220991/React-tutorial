@@ -9,6 +9,7 @@
 - Markup completed tasks.
 - Erase tasks.
 
+![todolist-react](https://user-images.githubusercontent.com/98363075/171065705-a14db788-5870-490f-9dba-bfdb377c23eb.png)
 
 ## Built With
 
@@ -19,7 +20,7 @@
 
 ## Live Demo
 
-[Javascript Capstone Live Demo](https://santiago220991.github.io/React-tutorial/dist)
+[Javascript Capstone Live Demo](https://santiago220991.github.io/React-tutorial)
 
 ## Getting Started
 

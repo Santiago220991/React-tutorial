@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[Javascript Capstone Live Demo](https://santiago220991.github.io/React-tutorial)
+[Javascript Capstone Live Demo](https://react-tutorial-santiago.herokuapp.com/)
 
 ## Getting Started
 
